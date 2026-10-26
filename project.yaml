@@ -1,0 +1,34 @@
+# Copy this file to the root of your group's repository as project.yaml.
+# The course reads it with a program, so:
+# - keep every key exactly as it is spelled here; change only the values;
+# - put every value in double quotes;
+# - indent with spaces, never with tabs;
+# - list all four members, each starting with "- name:".
+# Check that GitHub shows the file without an error before you submit the
+# link to your repository.
+
+schema: "1"
+
+# Your working title. You may change it later; keep this file up to date.
+title: "Telebirr-style expense tracker"
+
+# One sentence: "An app that helps [users] to [do what] so that [benefit]."
+summary: "An app that helps mobile banking users with tracking financial expenses so that they make smarter budgeting decisions."
+
+members:
+  - name: "Mikiyas Alemayehu"              # full name, as in the student register
+    student_id: "UGR/5459/16"         # exactly as on your student ID card
+    email: "mikiyasalemayehu81@gmail.com" # an address you read every day
+    github: "MikiAlexo"            # your GitHub username, without @
+  - name: "Yosef Ayele"
+    student_id: "UGR/0398/16"
+    email: "yosephayele1723@gmail.com"
+    github: "joe1m2"
+  - name: "Nahom Desta"
+    student_id: "UGR/1631/16"
+    email: "nahomdestamideksa@gmail.com"
+    github: "joyboy64209"
+  - name: "Yonathan Markos"
+    student_id: "UGR/6562/16"
+    email: "Yonathanmark2k@gmail.com"
+    github: "yonathanmark2k"
