@@ -10,10 +10,10 @@
 schema: "1"
 
 # Your working title. You may change it later; keep this file up to date.
-title: "Telebirr-style expense tracker"
+title: "campus events and clubs"
 
 # One sentence: "An app that helps [users] to [do what] so that [benefit]."
-summary: "An app that helps mobile banking users with tracking financial expenses so that they make smarter budgeting decisions."
+summary: "An app that helps university students with discovering college activities so that they can engage with campus communities."
 
 members:
   - name: "Mikiyas Alemayehu"              # full name, as in the student register
